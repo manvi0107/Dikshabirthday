@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background-image: url(d.jpg);
+  background-image: url(d6.jpg);
 }
 audio {
   display: none;
@@ -66,8 +66,8 @@ header h1 {
     width: 100%;
     flex-shrink: 0;
     object-fit: cover;
-    max-height: 800px;
-    max-width: 900px;
+    max-height: 700px;
+    max-width: 800px;
   }
   
   /* Smooth Slideshow Animation */
@@ -196,4 +196,3 @@ header h1 {
   font-size: 1rem;
   color: #ffffff;
 }
-
