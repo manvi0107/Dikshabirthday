@@ -6,10 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Array of video sources
   const videoSources = [
-    "krits.mp4",
-    "manvi-2-2.mp4",
-    "harleen.mp4",
-    "mehar.mp4",
+    "d1.mp4",
     // Add more video file paths as needed
   ];
   let currentVideoIndex = 0; // Track the current video index
